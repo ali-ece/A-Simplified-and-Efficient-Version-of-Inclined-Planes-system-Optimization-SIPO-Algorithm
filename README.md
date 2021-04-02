@@ -1,2 +1,7 @@
 # A-Simplified-and-Efficient-Version-of-Inclined-Planes-system-Optimization-SIPO-Algorithm
-A simplified and effective version of IPO (called SIPO) with the aim of simplifying the main IPO equations, creating a powerful trade-off between the concepts of exploitation and exploration, and modifying the complexity of their structural parameters.
+
+*A simplified and effective version of IPO (called SIPO) with the aim of simplifying the main IPO equations, creating a powerful trade-off between the concepts of exploitation and exploration, and modifying the complexity of their structural parameters.
+
+** The efficiency of heuristic optimization methods has led researchers to considerably use these methods to solve complex engineering problems. Inclined planes system optimization (IPO) is a relatively new heuristic algorithm that is inspired by the dynamic movement of objects on inclined planes without friction. This paper presents a simplified and effective version of IPO (called SIPO) with the aim of simplifying the main IPO equations, creating a powerful trade-off between the concepts of exploitation and exploration, and modifying the complexity of their structural parameters. The performance of the proposed algorithm is measured on 10 benchmark functions. The results clearly demonstrate the improved performance and superiority of SIPO compared to the standard version of the IPO and its improved versions.
+
+*** S. Mohammadi-Esfahrood, A. Mohammadi and S. H. Zahiri, "A Simplified and Efficient Version of Inclined Planes system Optimization Algorithm," 2019 5th Conference on Knowledge Based Engineering and Innovation (KBEI), Tehran, Iran, 2019, pp. 504-509, doi: 10.1109/KBEI.2019.8735044.https://ieeexplore.ieee.org/abstract/document/8735044
